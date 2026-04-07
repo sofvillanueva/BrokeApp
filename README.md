@@ -14,7 +14,7 @@ El pipeline actual tiene los siguientes componentes, pero ninguno funciona corre
 
 ### 1. Integración Continua
 
-- [  ] Trigger desde rama main
+- [V] Trigger desde rama main
 - [  ] Versión de Python incorrecta
 - [  ] Nombre del archivo de dependencias incorrecto
 - [  ] Directorio de tests incorrecto
